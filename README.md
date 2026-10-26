@@ -58,3 +58,4 @@ Accountability partner: Mya Dennis
 
 ### Reflection
 
+Not a whole lot changed from my first thoughts about this project. 
