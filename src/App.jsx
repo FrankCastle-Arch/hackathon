@@ -15,12 +15,11 @@ function App() {
   const startOver = () => {
     setVotes(0)
   }
-
     return (
     <><div className="card">
         <Header />
         <Welcome />
-      <br />
+      <br /> 
       <br />  
         <GameBoard />  
         <CategoryKey /> 
