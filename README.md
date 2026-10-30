@@ -58,4 +58,4 @@ Accountability partner: Mya Dennis
 
 ### Reflection
 
-Not a whole lot changed from my first thoughts about this project. The hardest thing has been getting it to deploys to cloudflare, which it still has not yet. I haven't given up, and am trying different things. Fingers crossed it works!
+Not a whole lot changed from my first thoughts about this project. The hardest thing has been getting it to deploy to cloudflare, which it still has not yet. I haven't given up, and am trying different things. Fingers crossed it works!
