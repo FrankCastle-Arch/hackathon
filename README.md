@@ -5,12 +5,12 @@
 Which game should the host and their friends play for game night?
 
 ## Links
-- Live: https://YOUR-SITE.netlify.app
+- Live: https://app.netlify.com/projects/friendlyfirefriday/
 - Repo: https://github.com/FrankCastle-Arch/hackathon
 
 ## The plan
 
-The host of a game night has a group of friends coming over. Which game should they play? The Host can select how many people are coming, and every game that can't seat them dims. CLicking a square shows the details, the dice pick a game when nobody can decide. The key explains what each category and complexity level means. 
+The host of a game night has a group of friends coming over. Which game should they play? The Host can select how many people are coming, and every game that can't seat then dims. Clicking a square shows the details, the dice picks a game when nobody can decide. The key explains what each category and complexity level means. 
 
 ### Data
 Dataset: `game-list`
@@ -49,7 +49,7 @@ Game Board, Category Info, Category Key, Footer, Game Details, Header, Welcome
 
 
 ### User action
-- A visitor types ______ and the page ______.
+To use it, the host picks how many people are coming, and every game that can’t seat that group dims out. Click any square to see its details. If the group can’t decide, roll the dice, and the highlight hops around the board one square at a time to pick a game.
 
 
 ### Team
@@ -58,4 +58,4 @@ Accountability partner: Mya Dennis
 
 ### Reflection
 
-Not a whole lot changed from my first thoughts about this project. 
+Not a whole lot changed from my first thoughts about this project. The hardest thing has been getting it to deploy to cloudflare, which it still has not yet. I haven't given up, and am trying different things. Fingers crossed it works!
