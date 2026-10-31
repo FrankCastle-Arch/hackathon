@@ -137,6 +137,3 @@ img {
 @media (max-width: 600px) {
   .key-columns { grid-template-columns: 1fr; }
 }
-
-
-export default App.css
