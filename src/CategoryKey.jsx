@@ -1,4 +1,4 @@
-import { categoryInfo, complexityInfo } from './categoryInfo.js'
+import { CategoryInfo, complexityInfo } from './CategoryInfo.js'
 
 function CategoryKey() {
   return (
@@ -9,7 +9,7 @@ function CategoryKey() {
         <div>
           <h4>Categories</h4>
           <ul>
-            {Object.entries(categoryInfo).map(([id, info]) => (
+            {Object.entries(CategoryInfo).map(([id, info]) => (
               <li key={id}>
                 <span className="badge" style={{ background: info.color }}>{info.label}</span>
                 {info.meaning}

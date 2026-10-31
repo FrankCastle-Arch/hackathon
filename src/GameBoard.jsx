@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import useFetchData from './useFetchData.js'
-import { categoryInfo } from './categoryInfo.js'
+import { CategoryInfo } from './CategoryInfo.js'
 import GameDetails from './GameDetails.jsx'
 
 const COLS = 9
