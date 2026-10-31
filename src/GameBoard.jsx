@@ -98,7 +98,7 @@ function GameBoard() {
       <div className="board">
         {tiles.map((g, i) => {
           const { row, col } = tilePosition(i)
-          const color = categoryInfo[g.category] ? categoryInfo[g.category].color : "#6b7280"
+          const color = CategoryInfo[g.category] ? CategoryInfo[g.category].color : "#6b7280"
           const classes =
             "tile" + (i === selected ? " selected" : "") + (fits(g) ? "" : " dim")
           return (
