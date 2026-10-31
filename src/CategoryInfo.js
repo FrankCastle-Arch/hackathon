@@ -1,4 +1,4 @@
-export const categoryInfo = {
+export const CategoryInfo = {
   strategy: { label: "Strategy", color: "#a5b4fc", meaning: "Plan ahead and manage resources to outplay your opponents." },
   family: { label: "Family", color: "#99f6e4", meaning: "Easy to learn and good for mixed ages." },
   cooperative: { label: "Cooperative", color: "#93c5fd", meaning: "Everyone works together against the game." },

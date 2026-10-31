@@ -1,7 +1,7 @@
-import { categoryInfo } from './categoryInfo.js'
+import { CategoryInfo } from './CategoryInfo.js'
 
 function GameDetails({ game }) {
-  const info = categoryInfo[game.category]
+  const info = CategoryInfo[game.category]
 
   return (
     <article className="center">
